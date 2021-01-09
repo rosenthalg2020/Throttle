@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Throttle</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="skip">Skip</string>
+    <string name="default_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="default_header">Text</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgotPassword">Forgot Password?</string>
+    <string name="emailField">Email</string>
+    <string name="nextBtn">Next</string>
+    <string name="addEmail">Add Email Address</string>
+    <string name="profileName">Profile Name</string>
+    <string name="addProfilePic">Add Profile Picture</string>
+    <string name="title_activity_settings_page">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="settingsBtn">Settings</string>
+    <string name="text_home">Home</string>
+    <string name="favorite_nav">Favorites</string>
+    <string name="search_nav">Search</string>
+    <string name="profile_nav">Profile</string>
+    <string name="trending_builds">TRENDING BUILDS</string>
+    <string name="home_photos">PHOTOS</string>
+    <string name="home_coverage">COVERAGE</string>
+    <string name="home_events">EVENTS</string>
+</resources>
